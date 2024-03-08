@@ -1,3 +1,4 @@
-print("This is a new test :D")
 print("Hopefully this will be work")
-print("a")
+print("yeah it works")
+print("but right now i'm doing more changes wtf")
+print("oh")

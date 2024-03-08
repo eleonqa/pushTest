@@ -1,3 +1,1 @@
-print("Holo")
-print("wtf")
-print("yolo")
+print("doing a lot of random stuff sorry xD")
